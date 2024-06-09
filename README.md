@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="https://github.com/WaiYanTun25/WaiYanTun25/blob/main/wave.gif" width="30px"> I'm Wai Yan Tun ( Yan ).
 
 <!--
 **WaiYanTun25/WaiYanTun25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
